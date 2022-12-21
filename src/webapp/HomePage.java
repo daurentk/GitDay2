@@ -6,4 +6,8 @@ public int qty = 1;
     // Setting up a homepage
     // navi menu
     // following Dr. Saim
+
+   public void practice(){
+       System.out.println("Keep practicing!");
+   }
 }
