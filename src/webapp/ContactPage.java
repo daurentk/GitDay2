@@ -8,5 +8,9 @@ public class ContactPage {
 
     public static void repeat(int times){
         System.out.println("Repeat " + times + " times");
+
+        // names
+        // phone numbers
+        //email addresses
     };
 }
