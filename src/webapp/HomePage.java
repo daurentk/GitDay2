@@ -10,4 +10,6 @@ public int qty = 1;
    public void practice(){
        System.out.println("Keep practicing!");
    }
+
+   //adding headers and footers to the Home page
 }
