@@ -11,4 +11,5 @@ public class Sales {
     // seasonal sales
 
     // Black Friday sales
+    // Xmas hot offers
 }
